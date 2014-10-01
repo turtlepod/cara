@@ -9,10 +9,15 @@ Cara theme is an clean and simple grid responsive theme built with search-engine
 ## Copyright & license
 
 This theme is licensed under the [GNU General Public License](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), version 2 (GPL) or later.
+All included images are also under GPL2+ licensing.
 
 2014 © [Genbu Media](http://genbu.me/). All rights reserved.
 
 ## Changelog:
+
+### 0.1.2
+* Sidebar list fix.
+* remove post-formats tag.
 
 ### 0.1.1
 * Better Masonry with Images Loaded and Web Font Loader.
