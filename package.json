@@ -1,6 +1,6 @@
 {
-	"name": "genbu",
-	"version": "1.2.2",
+	"name": "cara",
+	"version": "1.0.0",
 	"private": true,
 	"devDependencies": {
 		"grunt": "~0.4.5",
