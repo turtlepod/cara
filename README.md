@@ -15,6 +15,9 @@ All included images are also under GPL2+ licensing.
 
 ## Changelog:
 
+### 1.0.0
+* Update HC and Tamatebako.
+
 ### 0.1.2
 * Sidebar list fix.
 * remove post-formats tag.
